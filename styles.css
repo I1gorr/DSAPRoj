@@ -1,0 +1,47 @@
+#mapContainer {
+  width: 100%;
+  height: 100%;
+}
+
+#distanceDisplay, #segmentDistance {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background: white;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  z-index: 10;
+}
+
+#segmentDistance {
+  top: 50px;
+}
+
+#nextButton {
+  position: absolute;
+  top: 90px;
+  left: 10px;
+  padding: 10px 15px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  z-index: 10;
+}
+
+#addWaypointButton {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  padding: 10px 15px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  font-size: 20px;
+  cursor: pointer;
+  z-index: 10;
+}
