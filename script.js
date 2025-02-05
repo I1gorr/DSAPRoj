@@ -1,7 +1,7 @@
 import { optimizeRoute } from './routeOptimizer.js';
 
 const platform = new H.service.Platform({
-    'apikey': 'KpaMh5fZJq77QjxeSzhD8RJT_SHxaYZhzRWeqP2829Q'
+    'apikey': 'API_KEY'
 });
 const defaultLayers = platform.createDefaultLayers();
 
