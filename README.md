@@ -1,4 +1,4 @@
-# City Route Optimizer 🚗🗺️
+# Road Trip Planner 🚗🗺️
 
 City Route Optimizer is an intelligent route planning web application that helps users determine the most efficient order in which to visit multiple locations within a city. It uses the HERE Maps API and graph-based logic to suggest routes and nearby places based on user preferences.
 
